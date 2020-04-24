@@ -1,0 +1,6 @@
+.vscode
+.DS_Store
+
+# Build files
+app
+app.zip
